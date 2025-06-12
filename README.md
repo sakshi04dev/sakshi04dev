@@ -2,7 +2,7 @@
 - 👀 I’m interested to make webs
 - 🌱 I’m currently learning IT
 - 📫 How to reach me :- sakshi.n.patil20@gmail.com
-- 😄 Pronouns: SAKSHI
+- looking the future in the IT        world 
 - ⚡ Fun fact: LEARN FAST
 
 <!---
