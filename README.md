@@ -1,11 +1,32 @@
--  Hi, I’m @sakshi04dev
--  I’m interested to make webs
--  I’m currently learning IT
--  How to reach me :- sakshi.n.patil20@gmail.com
-- 
-  
+Hi, I'm Sakshi 👋
 
-<!---
-sakshi04dev/sakshi04dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Aspiring Software Developer | IT Student
+
+Welcome to my GitHub profile! I'm learning to build projects and improve my programming skills by working on real-world ideas.
+
+🚀 About Me
+
+- 🌱 Currently learning Java, HTML, CSS and Python
+- 💡 Interested in web development and software engineering
+- 🛠️ Learning by building projects and solving problems
+- 🎯 Goal: Become a skilled software developer
+
+🧰 Technologies
+
+- Java
+- HTML
+- CSS
+- Python
+- Git & GitHub
+
+📌 What I'm Working On
+
+- Web development projects
+- Java mini-projects
+- Interactive games and applications
+
+🌟 My Goal
+
+To keep learning, build useful projects, contribute to open source, and grow as a developer.
+
+Thanks for visiting my profile! 😊
